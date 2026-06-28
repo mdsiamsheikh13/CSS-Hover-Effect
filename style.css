@@ -1,0 +1,21 @@
+html,
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #161616;
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+/* Button */
+.btn {
+    padding: 1rem 2.5rem;
+    border: none;
+    outline: none;
+    color: #fff;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 12px;
+}
